@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-MultiNERD NER models fine-tuned on the English subset using Roberta and Spanmarker
+MultiNERD NER models fine-tuned on the English subset using Roberta (Spanmarker)
 </h1>
 
 [MultiNERD Dataset](https://huggingface.co/datasets/Babelscape/multinerd?row=17) |
