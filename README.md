@@ -59,7 +59,7 @@ python spanmodel.py --system A \ """You can choose system A and B here."""
 
 The overall performance of the two systems:
 
-|              | Accuracy (entity)  | Recall (entity)    | Precision (entity)  | F1 score (entity)  |
+|              | Accuracy  | Recall   | Precision  | F1 score   |
 | ------------ | ------------------ | ------------------ | ------------------ |------------------ |
 | RoBERTa-A | 0.9853     | 0.9684     | 0.8805    | 0.9223  |
 | RoBERTa-B     | 0.9927 | 0.9800 | 0.9423 | 0.9608  |
