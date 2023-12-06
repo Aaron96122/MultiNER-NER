@@ -62,7 +62,7 @@ def main(train_data, valid_data, test_data, label, model_name, output_dir, save_
     train_args = TrainingArguments(
         output_dir=output_dir,
         # Training Hyperparameters:
-        learning_rate=1e-5,
+        learning_rate=2e-5,
         per_device_train_batch_size=16,
         per_device_eval_batch_size=16,
         # gradient_accumulation_steps=2,
