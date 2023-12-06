@@ -55,7 +55,7 @@ python spanmodel.py --system A \ """You can choose system A and B here."""
                 --output_dir /home/yaruwu/rise/outputs \ """The output directory to store the final results of the test set."""
                 --save_dir /home/yaruwu/rise/models \ """The final directory to save the fine-tuned model for further use."""
 ```
-### Evaluation results
+### Test results
 
 The overall performance of the two systems:
 
